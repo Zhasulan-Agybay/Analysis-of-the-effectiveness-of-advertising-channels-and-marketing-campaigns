@@ -38,13 +38,13 @@ Understand which promotion channels bring in the most sales, what is the cost of
 3. The graph and the result of the test ANOVA (Target_Audience: F = 0.57, p = 0.6847) show that there is no difference in the influence of the target audience on CAC.
 
 4. Time dynamics of advertising channel indicators
- - CAC: Gradual increase since June.
- - ROI: Seasonal growth in April and August to December.
- - Conversion Rate: Fall in April and rise from August (probably during holiday periods).
+   - *CAC: Gradual increase since June.*
+   - *ROI: Seasonal growth in April and August to December.*
+   - *Conversion Rate: Fall in April and rise from August (probably during holiday periods).*
 
 5. Seasonality
- - CAC: There has been a gradual increase since May. Trend: up (0.97)
- - ROI and Conversion Rate: No significant growth is observed. Trend: (0.00) 
+  - *CAC: There has been a gradual increase since May. Trend: up (0.97)*
+  - *ROI and Conversion Rate: No significant growth is observed. Trend: (0.00)* 
 
 6. By campaign type, Effective campaigns are 15.3% more effective than Average campaigns and 18.2% more effective than Ineffective campaigns. All companies have similar results.
 
