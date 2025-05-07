@@ -29,23 +29,23 @@ Understand which promotion channels bring in the most sales, what is the cost of
 | 11708 | Display | 159073.32 |
 | 172561 | Search | 158809.96 |
 | 70216 | Influencer | 158672.96 |
-
+---
 2. A/B testing
  - Result: Campaign_Type: F = 0.41, p = 0.8031
  - Channel_Used: F = 1.53, p = 0.1776
  - There is no difference in profitability between campaigns and channels.
-
+---
 3. The graph and the result of the test ANOVA (Target_Audience: F = 0.57, p = 0.6847) show that there is no difference in the influence of the target audience on CAC.
-
+---
 4. Time dynamics of advertising channel indicators
  - CAC: Gradual increase since June.
  - ROI: Seasonal growth in April and August to December.
  - Conversion Rate: Fall in April and rise from August (probably during holiday periods).
-
+---
 5. Seasonality
  - CAC: There has been a gradual increase since May. Trend: up (0.97)
  - ROI and Conversion Rate: No significant growth is observed. Trend: (0.00) 
-
+---
 6. By campaign type, Effective campaigns are 15.3% more effective than Average campaigns and 18.2% more effective than Ineffective campaigns. All companies have similar results.
 
 ---
