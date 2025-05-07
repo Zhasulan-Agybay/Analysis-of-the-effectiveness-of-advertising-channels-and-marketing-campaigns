@@ -31,9 +31,9 @@ Understand which promotion channels bring in the most sales, what is the cost of
 | 70216 | Influencer | 158672.96 |
 
 - A/B testing
- * Result: Campaign_Type: F = 0.41, p = 0.8031
- * Channel_Used: F = 1.53, p = 0.1776
- * There is no difference in profitability between campaigns and channels.
+ > Result: Campaign_Type: F = 0.41, p = 0.8031
+ > Channel_Used: F = 1.53, p = 0.1776
+ > There is no difference in profitability between campaigns and channels.
 
 - The graph and the result of the test ANOVA (Target_Audience: F = 0.57, p = 0.6847) show that there is no difference in the influence of the target audience on CAC.
 
