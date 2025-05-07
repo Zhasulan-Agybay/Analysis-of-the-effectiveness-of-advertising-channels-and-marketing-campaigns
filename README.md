@@ -16,22 +16,22 @@ Understand which promotion channels bring in the most sales, what is the cost of
 
 #### 🎯 Key Findings
 - Top 10 Most Profitable Campaigns
-Campaign_ID  Campaign_Type    Profit
-13019        Influencer       159456.36
-33606        Email            159368.58
-72530        Display          159360.00
-13708        Display          159352.62
-73095        Influencer       159352.18
-8281         Social Media     159328.68
-163709       Display          159248.69
-11708        Display          159073.32
-172561       Search           158809.96
-70216        Influencer       158672.96
+	Campaign_ID  Campaign_Type    Profit
+	13019        Influencer       159456.36
+	33606        Email            159368.58
+	72530        Display          159360.00
+	13708        Display          159352.62
+	73095        Influencer       159352.18
+	8281         Social Media     159328.68
+	163709       Display          159248.69
+	11708        Display          159073.32
+	172561       Search           158809.96
+	70216        Influencer       158672.96
 
 - A/B testing
 	Result: Campaign_Type: F = 0.41, p = 0.8031
         Channel_Used: F = 1.53, p = 0.1776
-There is no difference in profitability between campaigns and channels.
+	There is no difference in profitability between campaigns and channels.
 
 - The graph and the result of the test ANOVA (Target_Audience: F = 0.57, p = 0.6847) show that there is no difference in the influence of the target audience on CAC.
 
