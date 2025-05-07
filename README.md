@@ -17,6 +17,7 @@ Understand which promotion channels bring in the most sales, what is the cost of
 #### 🎯 Key Findings
 - Top 10 Most Profitable Campaigns
 | Campaign_ID | Campaign_Type | Profit |
+|-|--------|---|
 | 13019 | Influencer | 159456.36 |
 | 33606 | Email | 159368.58 |
 | 72530        Display |          159360.00
