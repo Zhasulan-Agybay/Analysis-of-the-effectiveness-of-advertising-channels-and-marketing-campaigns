@@ -43,8 +43,8 @@ Understand which promotion channels bring in the most sales, what is the cost of
    - *Conversion Rate: Fall in April and rise from August (probably during holiday periods).*
 
 5. Seasonality
-  - *CAC: There has been a gradual increase since May. Trend: up (0.97)*
-  - *ROI and Conversion Rate: No significant growth is observed. Trend: (0.00)* 
+   - *CAC: There has been a gradual increase since May. Trend: up (0.97)*
+   - *ROI and Conversion Rate: No significant growth is observed. Trend: (0.00)* 
 
 6. By campaign type, Effective campaigns are 15.3% more effective than Average campaigns and 18.2% more effective than Ineffective campaigns. All companies have similar results.
 
